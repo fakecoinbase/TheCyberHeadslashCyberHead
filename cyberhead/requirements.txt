@@ -30,7 +30,7 @@ packaging==20.3
 pandas==1.0.3
 pandas-datareader==0.8.1
 peewee==3.13.3
-Pillow==7.1.2
+Pillow==8.1.1
 pycparser==2.20
 pycrypto==2.6.1
 pydantic==1.4
